@@ -1,7 +1,12 @@
 TEST 1
 
+PARTNER 1 test change 
 
+<<<<<<< HEAD
 hahahaha change
 
 
 tesite
+=======
+Bouchard test with Harold
+>>>>>>> ce36fd7cb76d1257ff16a6100a098d7f08d50f20
