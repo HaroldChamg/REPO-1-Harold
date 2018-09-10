@@ -1,0 +1,41 @@
+1.
+~: change directory to home directory
+
+mkdir ./problem_set_1: make directory in the current directory called “problem_set_1”
+
+
+touch submission.txt: put the submission.txt fill in the current directory.
+
+cd ..: change it to the parent directory aka previous directory.
+
+Pwd: printing working directory
+
+
+2.
+
+cp ~/config.text /
+
+mkdir / /preferences
+
+cp ~/preferences/prefs.text ~
+
+Head -n 20~/config.txt
+Tail -n 20~/config.txt
+
+Head -n20/config.txt
+Tail -n20/config.txt
+
+
+3.
+ Root: All the directories are the branches of Root, everything is under the root.
+ Home: It tells you where you at, all the files, directories under the “User” is stored in Home.
+ Parent: It shows where your current directory is previously stored at.    4.
+
+cd /usrs/INFO3401/../homework/./problem1 change the directory to users goes into info 3401 dir the go back to users then go the the homework directory 
+
+pwd should print out: users/homework/problem1
+
+5. 
+1. mv ~/Documents/datafile.csv,
+2. cp ~/Documents/datafile.csv
+3. I can’t find any commend line for undo, so I am not really sure what do you mean by undo it, so I I’d say the way how I will do in this scenario is using cp ~, instead mv~. I mean cp is the only command line I know for copying.
